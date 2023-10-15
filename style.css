@@ -82,6 +82,7 @@ nav #item ul li a:hover {
   border-radius: 100px;
   margin: 3px 6px;
   padding: 3px 6px;
+  box-shadow: 10px 10px 8px 10px #888888;
 }
 #first #right {
   display: flex;
@@ -108,6 +109,7 @@ nav #item ul li a:hover {
   margin: 17px 6px;
   text-decoration: none;
   font-size: 1.3rem;
+  box-shadow: 10px 10px 8px 10px #888888;
 }
 /*Second Section*/
 .whole {
@@ -168,6 +170,7 @@ nav #item ul li a:hover {
   padding-bottom: 20px;
   background-color: #c8e8ef;
   height: 500px;
+  box-shadow: 10px 10px 8px 10px #888888;
 }
 #second #first_section h2 {
   display: flex;
@@ -185,7 +188,7 @@ nav #item ul li a:hover {
 #second #second_section {
   display: flex;
   border: 2px solid grey;
-
+  box-shadow: 10px 10px 8px 10px #888888;
   flex-direction: column;
   padding-left: 30px;
   border-radius: 10px;
@@ -220,6 +223,7 @@ nav #item ul li a:hover {
   padding-bottom: 30px;
   background-color: #c8e8ef;
   height: 500px;
+  box-shadow: 10px 10px 8px 10px #888888;
 }
 #second #third_section h2 {
   display: flex;
@@ -289,6 +293,7 @@ nav #item ul li a:hover {
   margin-bottom: 60px;
   padding-bottom: 30px;
   background-color: #266bb5;
+  box-shadow: 10px 10px 8px 10px #888888;
 }
 #third .first_part h2 {
   display: flex;
@@ -319,6 +324,7 @@ nav #item ul li a:hover {
   margin-bottom: 60px;
   padding-bottom: 30px;
   background-color: #095d81;
+  box-shadow: 10px 10px 8px 10px #888888;
 }
 #third .second_part h2 {
   display: flex;
@@ -349,6 +355,7 @@ nav #item ul li a:hover {
   margin-bottom: 60px;
   padding-bottom: 30px;
   background-color: #4432e7bb;
+  box-shadow: 10px 10px 8px 10px #888888;
 }
 #third .third_part h2 {
   display: flex;
@@ -380,6 +387,7 @@ nav #item ul li a:hover {
   margin-bottom: 60px;
   padding-bottom: 30px;
   background-color: #335eccd8;
+  box-shadow: 10px 10px 8px 10px #888888;
 }
 #third .fourth_part h2 {
   display: flex;
