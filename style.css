@@ -4,6 +4,9 @@ body {
   padding: 0;
   font-family: "Young Serif", serif;
 }
+html {
+  scroll-behavior: smooth;
+}
 /* Header*/
 /* Logo Section*/
 
@@ -48,6 +51,7 @@ nav #item ul li a {
   padding: 3px 6px;
   font-size: 1.3rem;
   gap: 30px;
+  scroll-behavior: smooth;
 }
 nav #item ul li a:hover {
   color: red;
